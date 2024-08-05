@@ -1,1 +1,10 @@
-1. Question: What is your name? Answer: Michael Jackson //defining question and answer
+1. Question: What is your name? Answer: Michael Jackson; //defining question and answer
+2. Question: What is Data Structure? Answer: A data structure is a particular way of organizing data in a computer so that it can be used effectively. The idea is to reduce the space and time complexities of different tasks.;
+3. Question: What types of Data Structures exist? Answer: Linear and non-linear data structures.;
+4. Question: What is a Linked List? Answer: A linked list is a linear data structure where elements are stored in nodes, and each node contains a reference (or link) to the next node in the sequence. This allows for efficient insertion and deletion of elements.;
+5. Question: What is a Stack and how does it work? Answer: A stack is a linear data structure that follows the Last In, First Out (LIFO) principle. Elements are added (pushed) and removed (popped) from the top of the stack.;
+6. Question: What is a Queue and how does it work? Answer: A queue is a linear data structure that follows the First In, First Out (FIFO) principle. Elements are added (enqueued) at the rear and removed (dequeued) from the front.;
+7. Question: What is a Binary Tree? Answer: A binary tree is a non-linear data structure in which each node has at most two children, referred to as the left child and the right child. It is used for efficient searching and sorting.;
+8. Question: What is a Hash Table? Answer: A hash table is a data structure that maps keys to values using a hash function to compute an index into an array of buckets or slots, from which the desired value can be found.;
+9. Question: What is the difference between an Array and a Linked List? Answer: An array is a collection of elements stored at contiguous memory locations, allowing direct access to elements via an index. A linked list, on the other hand, consists of nodes where each node contains data and a reference to the next node, allowing for dynamic memory allocation and efficient insertions/deletions.;
+10. Question: What is a Graph in data structures? Answer: A graph is a non-linear data structure consisting of nodes (vertices) and edges that connect pairs of nodes. Graphs can be directed or undirected, and they are used to model relationships between objects.;
