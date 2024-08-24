@@ -1,3 +1,3 @@
 ## DataStructures
 
-#data strcutures training course
+Data Strutures training course
